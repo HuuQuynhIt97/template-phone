@@ -1,0 +1,149 @@
+HTTrack3.48-21+htsswf+htsjava launched on Sat, 26 Jun 2021 16:02:42 at http://dienthoai3.ninhbinhweb.info/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://dienthoai3.ninhbinhweb.info/ -O1 "F:\Angular\SYSTEM\Template\phone" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:03:30	Error: 	"Method Not Allowed" (405) at link dienthoai3.ninhbinhweb.info/xmlrpc.php (from dienthoai3.ninhbinhweb.info/)
+16:05:00	Warning: 	Retry after error -4 (No data (connection closed)) at link dienthoai3.ninhbinhweb.info/xmlrpc.php?rsd (from dienthoai3.ninhbinhweb.info/)
+16:05:00	Error: 	"Not Found" (404) at link dienthoai3.ninhbinhweb.info/wp-content/uploads/2017/12/ic-cellphone.svg (from dienthoai3.ninhbinhweb.info/)
+16:05:00	Error: 	"Not Found" (404) at link dienthoai3.ninhbinhweb.info/wp-content/uploads/2017/08/banner1.jpg (from dienthoai3.ninhbinhweb.info/)
+16:05:23	Warning: 	Retry after error -4 (No data (connection closed)) at link dienthoai3.ninhbinhweb.info/product-category/phu-kien/dan-cuong-luc/ (from dienthoai3.ninhbinhweb.info/)
+16:05:26	Warning: 	Retry after error -4 (No data (connection closed)) at link dienthoai3.ninhbinhweb.info/product-category/phu-kien/tai-nghe/ (from dienthoai3.ninhbinhweb.info/)
+16:06:17	Warning: 	Moved Permanently for dienthoai3.ninhbinhweb.info/danh-muc/dien-thoai/
+16:06:17	Warning: 	File has moved from dienthoai3.ninhbinhweb.info/danh-muc/dien-thoai/ to http://dienthoai3.ninhbinhweb.info/product/dien-thoai-iphone-6-cu-fullbox-gia-re-nhat/
+16:09:49	Warning: 	Retry after error -4 (No data (connection closed)) at link dienthoai3.ninhbinhweb.info/tai-khoan/ (from dienthoai3.ninhbinhweb.info/)
+16:10:01	Error: 	"Not Found" (404) at link dienthoai3.ninhbinhweb.info/wp-content/themes/fonts/fontawesome-webfont.eot?v=4.4.0 (from dienthoai3.ninhbinhweb.info/wp-content/themes/o-du/style.css?ver=3.0)
+16:10:01	Error: 	"Not Found" (404) at link dienthoai3.ninhbinhweb.info/wp-content/themes/fonts/fontawesome-webfont.eot? (from dienthoai3.ninhbinhweb.info/wp-content/themes/o-du/style.css?ver=3.0)
+16:10:01	Warning: 	Retry after error -4 (No data (connection closed)) at link dienthoai3.ninhbinhweb.info/wp-content/themes/fonts/fontawesome-webfont.woff2?v=4.4.0 (from dienthoai3.ninhbinhweb.info/wp-content/themes/o-du/style.css?ver=3.0)
+16:10:01	Error: 	"Not Found" (404) at link dienthoai3.ninhbinhweb.info/wp-content/themes/fonts/fontawesome-webfont.woff?v=4.4.0 (from dienthoai3.ninhbinhweb.info/wp-content/themes/o-du/style.css?ver=3.0)
+16:10:01	Error: 	"Not Found" (404) at link dienthoai3.ninhbinhweb.info/wp-content/themes/fonts/fontawesome-webfont.ttf?v=4.4.0 (from dienthoai3.ninhbinhweb.info/wp-content/themes/o-du/style.css?ver=3.0)
+16:10:01	Error: 	"Not Found" (404) at link dienthoai3.ninhbinhweb.info/wp-content/themes/fonts/fontawesome-webfont.svg?v=4.4.0 (from dienthoai3.ninhbinhweb.info/wp-content/themes/o-du/style.css?ver=3.0)
+16:10:19	Warning: 	Retry after error -4 (No data (connection closed)) at link dienthoai3.ninhbinhweb.info/category/tin-tuc-2/tuyen-dung/feed/ (from dienthoai3.ninhbinhweb.info/category/tin-tuc-2/tuyen-dung/)
+16:10:19	Warning: 	Moved Permanently for dienthoai3.ninhbinhweb.info/?p=21
+16:10:19	Warning: 	File has moved from dienthoai3.ninhbinhweb.info/?p=21 to http://dienthoai3.ninhbinhweb.info/gio-hang/
+16:10:20	Warning: 	Moved Permanently for dienthoai3.ninhbinhweb.info/?p=2517
+16:10:20	Warning: 	File has moved from dienthoai3.ninhbinhweb.info/?p=2517 to http://dienthoai3.ninhbinhweb.info/huong-dan-cach-thoat-xoa-tai-khoan-icloud-tren-iphone-ipad/
+16:10:23	Warning: 	Retry after error -4 (No data (connection closed)) at link dienthoai3.ninhbinhweb.info/dang-nhapxuat-cac-tai-khoan-apple-tren-cac-thiet-bi-ios/feed/ (from dienthoai3.ninhbinhweb.info/dang-nhapxuat-cac-tai-khoan-apple-tren-cac-thiet-bi-ios/)
+16:10:23	Warning: 	Moved Permanently for dienthoai3.ninhbinhweb.info/?p=2515
+16:10:23	Warning: 	File has moved from dienthoai3.ninhbinhweb.info/?p=2515 to http://dienthoai3.ninhbinhweb.info/dang-nhapxuat-cac-tai-khoan-apple-tren-cac-thiet-bi-ios/
+16:10:23	Warning: 	Moved Permanently for dienthoai3.ninhbinhweb.info/?p=2513
+16:10:23	Warning: 	File has moved from dienthoai3.ninhbinhweb.info/?p=2513 to http://dienthoai3.ninhbinhweb.info/huong-dan-xoa-tai-khoan-icloud-khong-can-mat-khau/
+16:10:23	Warning: 	Moved Permanently for dienthoai3.ninhbinhweb.info/?p=2044
+16:10:23	Warning: 	File has moved from dienthoai3.ninhbinhweb.info/?p=2044 to http://dienthoai3.ninhbinhweb.info/tai-hinh-nen-y-nghia-cho-may-tinh/
+16:10:23	Warning: 	Retry after error -4 (No data (connection closed)) at link dienthoai3.ninhbinhweb.info/wp-content/plugins/devvn-woocommerce-reviews/library/magnific-popup/magnific-popup.css?ver=1.0.7 (from dienthoai3.ninhbinhweb.info/product/may-tinh-bang-samsung-galaxy-tab-a-8-0-2017/)
+16:10:24	Warning: 	Moved Permanently for dienthoai3.ninhbinhweb.info/?p=2133
+16:10:24	Warning: 	File has moved from dienthoai3.ninhbinhweb.info/?p=2133 to http://dienthoai3.ninhbinhweb.info/product/may-tinh-bang-samsung-galaxy-tab-a-8-0-2017/
+16:10:24	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link https://cdn4.tgdd.vn/Products/Images/522/113278/Slider/vi-vn-samsung-galaxy-tab-a-8.0-(2017).jpg (from dienthoai3.ninhbinhweb.info/product/may-tinh-bang-samsung-galaxy-tab-a-8-0-2017/)
+16:10:24	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://cdn4.tgdd.vn/Products/Images/522/113278/samsung-galaxy-tab-a-80-2017-12-1.jpg (from dienthoai3.ninhbinhweb.info/product/may-tinh-bang-samsung-galaxy-tab-a-8-0-2017/)
+16:10:24	Warning: 	Retry after error -4 (No data (connection closed)) at link dienthoai3.ninhbinhweb.info/wp-json/wp/v2/product/2128 (from dienthoai3.ninhbinhweb.info/product/dien-thoai-iphone-8-64gb/)
+16:10:24	Warning: 	Moved Permanently for dienthoai3.ninhbinhweb.info/?p=2128
+16:10:24	Warning: 	File has moved from dienthoai3.ninhbinhweb.info/?p=2128 to http://dienthoai3.ninhbinhweb.info/product/dien-thoai-iphone-8-64gb/
+16:10:24	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://cdn4.tgdd.vn/Products/Images/42/114113/Slider/-1-thietke.jpg (from dienthoai3.ninhbinhweb.info/product/dien-thoai-iphone-8-64gb/)
+16:10:24	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://cdn4.tgdd.vn/Files/2017/09/13/1021096/p9122102_800x450.jpg (from dienthoai3.ninhbinhweb.info/product/dien-thoai-iphone-8-64gb/)
+16:10:24	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://cdn4.tgdd.vn/Products/Images/42/114112/iphone-8-256gb-h10-1.jpg (from dienthoai3.ninhbinhweb.info/product/dien-thoai-iphone-8-64gb/)
+16:10:25	Warning: 	Moved Permanently for dienthoai3.ninhbinhweb.info/?p=2125
+16:10:25	Warning: 	File has moved from dienthoai3.ninhbinhweb.info/?p=2125 to http://dienthoai3.ninhbinhweb.info/product/dien-thoai-iphone-x-64gb/
+16:10:25	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://cdn4.tgdd.vn/Products/Images/42/114115/Slider/vi-vn-1-thietke.jpg (from dienthoai3.ninhbinhweb.info/product/dien-thoai-iphone-x-64gb/)
+16:10:25	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://cdn4.tgdd.vn/Products/Images/42/114115/iphone-x-64gb7.jpg (from dienthoai3.ninhbinhweb.info/product/dien-thoai-iphone-x-64gb/)
+16:10:25	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://cdn4.tgdd.vn/Products/Images/42/114115/iphone-x-64gb8.jpg (from dienthoai3.ninhbinhweb.info/product/dien-thoai-iphone-x-64gb/)
+16:10:25	Warning: 	Moved Permanently for dienthoai3.ninhbinhweb.info/?p=2056
+16:10:25	Warning: 	File has moved from dienthoai3.ninhbinhweb.info/?p=2056 to http://dienthoai3.ninhbinhweb.info/product/thay-mat-kinh-cam-ung-samsung-galaxy-s9-s9-plus/
+16:10:25	Warning: 	Moved Permanently for dienthoai3.ninhbinhweb.info/?p=1979
+16:10:25	Warning: 	File has moved from dienthoai3.ninhbinhweb.info/?p=1979 to http://dienthoai3.ninhbinhweb.info/product/the-nho-toshiba-8gb/
+16:10:25	Warning: 	Moved Permanently for dienthoai3.ninhbinhweb.info/?p=1977
+16:10:25	Warning: 	File has moved from dienthoai3.ninhbinhweb.info/?p=1977 to http://dienthoai3.ninhbinhweb.info/product/day-cap-sac-usb-type-c-lg-chinh-hang/
+16:10:25	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://www.didongviet.vn/pub/media/wysiwyg/Phu-kien/cap-sac/day-cap-sac-usb-type-c-lg-chinh-hang/thiet-ke-day-cap-sac-type-c-samsung-galaxy-note-7-chinh-hang-didongviet.jpg (from dienthoai3.ninhbinhweb.info/product/day-cap-sac-usb-type-c-lg-chinh-hang/)
+16:10:25	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://www.didongviet.vn/pub/media/wysiwyg/Phu-kien/cap-sac/day-cap-sac-usb-type-c-lg-chinh-hang/day-cap-sac-type-c-samsung-galaxy-note-7-chinh-hang-didongviet.jpg (from dienthoai3.ninhbinhweb.info/product/day-cap-sac-usb-type-c-lg-chinh-hang/)
+16:10:25	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://www.didongviet.vn/pub/media/wysiwyg/Phu-kien/cap-sac/day-cap-sac-usb-type-c-lg-chinh-hang/do-tuong-thich-day-cap-sac-type-c-samsung-galaxy-note-7-chinh-hang-didongviet.jpg (from dienthoai3.ninhbinhweb.info/product/day-cap-sac-usb-type-c-lg-chinh-hang/)
+16:10:26	Warning: 	Moved Permanently for dienthoai3.ninhbinhweb.info/?p=1975
+16:10:26	Warning: 	File has moved from dienthoai3.ninhbinhweb.info/?p=1975 to http://dienthoai3.ninhbinhweb.info/product/adapter-cu-sac-hoco-1-0-a/
+16:10:26	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://www.didongviet.vn/pub/media/wysiwyg/Phu-kien/HOCO/sac-Hoco-1-0-A/Adapter-cu-sac-Hoco-1.0-A-gia-re-didongviet.jpg (from dienthoai3.ninhbinhweb.info/product/adapter-cu-sac-hoco-1-0-a/)
+16:10:26	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://www.didongviet.vn/pub/media/wysiwyg/Phu-kien/HOCO/sac-Hoco-1-0-A/thiet-ke-Adapter-cu-sac-Hoco-1.0-A-didongviet.jpg (from dienthoai3.ninhbinhweb.info/product/adapter-cu-sac-hoco-1-0-a/)
+16:10:26	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://www.didongviet.vn/pub/media/wysiwyg/Phu-kien/HOCO/sac-Hoco-1-0-A/Adapter-cu-sac-Hoco-1.0-A-didongviet.jpg (from dienthoai3.ninhbinhweb.info/product/adapter-cu-sac-hoco-1-0-a/)
+16:10:26	Warning: 	Moved Permanently for dienthoai3.ninhbinhweb.info/?p=1959
+16:10:26	Warning: 	File has moved from dienthoai3.ninhbinhweb.info/?p=1959 to http://dienthoai3.ninhbinhweb.info/product/iphone-7-32gb-lock-my-like-new/
+16:10:26	Warning: 	Moved Permanently for dienthoai3.ninhbinhweb.info/?p=1942
+16:10:26	Warning: 	File has moved from dienthoai3.ninhbinhweb.info/?p=1942 to http://dienthoai3.ninhbinhweb.info/product/dien-thoai-iphone-6-cu-fullbox-gia-re-nhat/
+16:10:26	Warning: 	Retry after error -4 (No data (connection closed)) at link dienthoai3.ninhbinhweb.info/product/dien-thoai-iphone-6-cu-fullbox-gia-re-nhat/?replytocom=17 (from dienthoai3.ninhbinhweb.info/product/dien-thoai-iphone-6-cu-fullbox-gia-re-nhat/)
+16:10:26	Warning: 	Moved Permanently for dienthoai3.ninhbinhweb.info/?p=1944
+16:10:26	Warning: 	File has moved from dienthoai3.ninhbinhweb.info/?p=1944 to http://dienthoai3.ninhbinhweb.info/product/iphone-6-16gb-lock-my-like-new/
+16:10:26	Warning: 	Moved Permanently for dienthoai3.ninhbinhweb.info/?p=1957
+16:10:26	Warning: 	File has moved from dienthoai3.ninhbinhweb.info/?p=1957 to http://dienthoai3.ninhbinhweb.info/product/iphone-6s-64gb-lock-my-new/
+16:10:26	Warning: 	Moved Permanently for dienthoai3.ninhbinhweb.info/?p=1955
+16:10:26	Warning: 	File has moved from dienthoai3.ninhbinhweb.info/?p=1955 to http://dienthoai3.ninhbinhweb.info/product/iphone-6s-plus-16gb-quoc-te-like-new/
+16:10:26	Warning: 	Retry after error -4 (No data (connection closed)) at link dienthoai3.ninhbinhweb.info/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdienthoai3.ninhbinhweb.info%2Fproduct%2Fiphone-6s-plus-16gb-quoc-te-like-new%2F&format=xml (from dienthoai3.ninhbinhweb.info/product/iphone-6s-plus-16gb-quoc-te-like-new/)
+16:10:26	Warning: 	Moved Permanently for dienthoai3.ninhbinhweb.info/?p=1953
+16:10:26	Warning: 	File has moved from dienthoai3.ninhbinhweb.info/?p=1953 to http://dienthoai3.ninhbinhweb.info/product/iphone-6s-64gb-quoc-te-like-new-khong-van-tay/
+16:10:26	Warning: 	Moved Permanently for dienthoai3.ninhbinhweb.info/?p=1951
+16:10:26	Warning: 	File has moved from dienthoai3.ninhbinhweb.info/?p=1951 to http://dienthoai3.ninhbinhweb.info/product/iphone-6s-16gb-lock-my-like-new/
+16:10:26	Warning: 	Moved Permanently for dienthoai3.ninhbinhweb.info/?p=1949
+16:10:26	Warning: 	File has moved from dienthoai3.ninhbinhweb.info/?p=1949 to http://dienthoai3.ninhbinhweb.info/product/iphone-6-plus-128gb-quoc-te-like-new/
+16:10:26	Warning: 	Moved Permanently for dienthoai3.ninhbinhweb.info/?p=1947
+16:10:26	Warning: 	File has moved from dienthoai3.ninhbinhweb.info/?p=1947 to http://dienthoai3.ninhbinhweb.info/product/iphone-6-16gb-quoc-te-like-new/
+16:10:26	Warning: 	Moved Permanently for dienthoai3.ninhbinhweb.info/?p=1946
+16:10:26	Warning: 	File has moved from dienthoai3.ninhbinhweb.info/?p=1946 to http://dienthoai3.ninhbinhweb.info/product/iphone-6-16gb-lock-nhat-like-new/
+16:10:26	Warning: 	Moved Permanently for dienthoai3.ninhbinhweb.info/?p=1972
+16:10:26	Warning: 	File has moved from dienthoai3.ninhbinhweb.info/?p=1972 to http://dienthoai3.ninhbinhweb.info/product/ipad-mini-4-16gb-wifi-4g/
+16:10:26	Warning: 	Moved Permanently for dienthoai3.ninhbinhweb.info/?p=1970
+16:10:26	Warning: 	File has moved from dienthoai3.ninhbinhweb.info/?p=1970 to http://dienthoai3.ninhbinhweb.info/product/ipad-mini-3-16gb-wifi-4g/
+16:10:26	Warning: 	Retry after error -4 (No data (connection closed)) at link dienthoai3.ninhbinhweb.info/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdienthoai3.ninhbinhweb.info%2Fproduct%2Fipad-mini-3-16gb-wifi-4g%2F (from dienthoai3.ninhbinhweb.info/product/ipad-mini-3-16gb-wifi-4g/)
+16:10:26	Warning: 	Moved Permanently for dienthoai3.ninhbinhweb.info/?p=1967
+16:10:26	Warning: 	File has moved from dienthoai3.ninhbinhweb.info/?p=1967 to http://dienthoai3.ninhbinhweb.info/product/ipad-air-16gb-wifi-4g/
+16:10:27	Warning: 	Moved Permanently for dienthoai3.ninhbinhweb.info/?p=1965
+16:10:27	Warning: 	File has moved from dienthoai3.ninhbinhweb.info/?p=1965 to http://dienthoai3.ninhbinhweb.info/product/ipad-pro-97inch-32gb-wifi-4g/
+16:10:27	Warning: 	Moved Permanently for dienthoai3.ninhbinhweb.info/?p=2041
+16:10:27	Warning: 	File has moved from dienthoai3.ninhbinhweb.info/?p=2041 to http://dienthoai3.ninhbinhweb.info/danh-gia-dien-thoai-infocus-m810t-ngang-hang-dien-thoai-cao-cap-voi-muc-gia-re/
+16:10:27	Warning: 	Moved Permanently for dienthoai3.ninhbinhweb.info/?p=2038
+16:10:27	Warning: 	File has moved from dienthoai3.ninhbinhweb.info/?p=2038 to http://dienthoai3.ninhbinhweb.info/phan-mem-nen-anh-va-video-giup-tiet-kiem-bo-nho-tren-android/
+16:10:27	Warning: 	Moved Permanently for dienthoai3.ninhbinhweb.info/?p=2019
+16:10:27	Warning: 	File has moved from dienthoai3.ninhbinhweb.info/?p=2019 to http://dienthoai3.ninhbinhweb.info/cach-tao-anh-dong-tren-iphone-cuc-de-voi-hieu-ung-dep-mat/
+16:10:27	Warning: 	Moved Permanently for dienthoai3.ninhbinhweb.info/?p=23
+16:10:27	Warning: 	File has moved from dienthoai3.ninhbinhweb.info/?p=23 to http://dienthoai3.ninhbinhweb.info/tai-khoan/
+16:10:27	Error: 	"Not Found" (404) at link dienthoai3.ninhbinhweb.info/Edge/ (from dienthoai3.ninhbinhweb.info/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.12.3)
+16:10:27	Warning: 	Retry after error -4 (No data (connection closed)) at link dienthoai3.ninhbinhweb.info/wp-content/themes/fonts/fontawesome-webfont.woff2?v=4.4.0 (from dienthoai3.ninhbinhweb.info/wp-content/themes/o-du/style.css?ver=3.0)
+16:10:30	Warning: 	Moved Permanently for dienthoai3.ninhbinhweb.info/?p=1973
+16:10:30	Warning: 	File has moved from dienthoai3.ninhbinhweb.info/?p=1973 to http://dienthoai3.ninhbinhweb.info/product/tai-nghe-iphone-5-5s/
+16:10:30	Warning: 	Moved Permanently for dienthoai3.ninhbinhweb.info/?p=2135
+16:10:30	Warning: 	File has moved from dienthoai3.ninhbinhweb.info/?p=2135 to http://dienthoai3.ninhbinhweb.info/product/the-nho-micro-sd-16-gb-class-10/
+16:10:30	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://cdn4.tgdd.vn/Products/Images/55/69973/the-nho-microsd-16gb-class-10--6.jpg (from dienthoai3.ninhbinhweb.info/product/the-nho-micro-sd-16-gb-class-10/)
+16:10:30	Warning: 	Retry after error -4 (No data (connection closed)) at link dienthoai3.ninhbinhweb.info/wp-content/uploads/2018/03/the-nho-microsd-16gb-class-10-7-300x300-100x100.jpg (from dienthoai3.ninhbinhweb.info/product/the-nho-micro-sd-16-gb-class-10/)
+16:10:31	Warning: 	Moved Permanently for dienthoai3.ninhbinhweb.info/?p=2016
+16:10:31	Warning: 	File has moved from dienthoai3.ninhbinhweb.info/?p=2016 to http://dienthoai3.ninhbinhweb.info/xiaomi-mi-mix-2s-lo-anh-mat-lung-ro-net-ngoai-doi-thuc/
+16:10:31	Warning: 	Retry after error -4 (No data (connection closed)) at link dienthoai3.ninhbinhweb.info/wp-content/plugins/devvn-woocommerce-reviews/library/magnific-popup/magnific-popup.css?ver=1.0.7 (from dienthoai3.ninhbinhweb.info/product/may-tinh-bang-samsung-galaxy-tab-a-8-0-2017/)
+16:10:31	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://cdn4.tgdd.vn/Products/Images/522/113278/Slider/vi-vn-samsung-galaxy-tab-a-8.0-(2017).jpg (from dienthoai3.ninhbinhweb.info/product/may-tinh-bang-samsung-galaxy-tab-a-8-0-2017/)
+16:10:31	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://cdn4.tgdd.vn/Products/Images/522/113278/samsung-galaxy-tab-a-80-2017-12-1.jpg (from dienthoai3.ninhbinhweb.info/product/may-tinh-bang-samsung-galaxy-tab-a-8-0-2017/)
+16:10:31	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://cdn4.tgdd.vn/Products/Images/42/114113/Slider/-1-thietke.jpg (from dienthoai3.ninhbinhweb.info/product/dien-thoai-iphone-8-64gb/)
+16:10:31	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://cdn4.tgdd.vn/Files/2017/09/13/1021096/p9122102_800x450.jpg (from dienthoai3.ninhbinhweb.info/product/dien-thoai-iphone-8-64gb/)
+16:10:31	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://cdn4.tgdd.vn/Products/Images/42/114112/iphone-8-256gb-h10-1.jpg (from dienthoai3.ninhbinhweb.info/product/dien-thoai-iphone-8-64gb/)
+16:10:31	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://cdn4.tgdd.vn/Products/Images/42/114115/Slider/vi-vn-1-thietke.jpg (from dienthoai3.ninhbinhweb.info/product/dien-thoai-iphone-x-64gb/)
+16:10:31	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://cdn4.tgdd.vn/Products/Images/42/114115/iphone-x-64gb7.jpg (from dienthoai3.ninhbinhweb.info/product/dien-thoai-iphone-x-64gb/)
+16:10:31	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://cdn4.tgdd.vn/Products/Images/42/114115/iphone-x-64gb8.jpg (from dienthoai3.ninhbinhweb.info/product/dien-thoai-iphone-x-64gb/)
+16:10:31	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://www.didongviet.vn/pub/media/wysiwyg/Phu-kien/cap-sac/day-cap-sac-usb-type-c-lg-chinh-hang/thiet-ke-day-cap-sac-type-c-samsung-galaxy-note-7-chinh-hang-didongviet.jpg (from dienthoai3.ninhbinhweb.info/product/day-cap-sac-usb-type-c-lg-chinh-hang/)
+16:10:31	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://www.didongviet.vn/pub/media/wysiwyg/Phu-kien/cap-sac/day-cap-sac-usb-type-c-lg-chinh-hang/day-cap-sac-type-c-samsung-galaxy-note-7-chinh-hang-didongviet.jpg (from dienthoai3.ninhbinhweb.info/product/day-cap-sac-usb-type-c-lg-chinh-hang/)
+16:10:31	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://www.didongviet.vn/pub/media/wysiwyg/Phu-kien/cap-sac/day-cap-sac-usb-type-c-lg-chinh-hang/do-tuong-thich-day-cap-sac-type-c-samsung-galaxy-note-7-chinh-hang-didongviet.jpg (from dienthoai3.ninhbinhweb.info/product/day-cap-sac-usb-type-c-lg-chinh-hang/)
+16:10:32	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://www.didongviet.vn/pub/media/wysiwyg/Phu-kien/HOCO/sac-Hoco-1-0-A/Adapter-cu-sac-Hoco-1.0-A-gia-re-didongviet.jpg (from dienthoai3.ninhbinhweb.info/product/adapter-cu-sac-hoco-1-0-a/)
+16:10:32	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://www.didongviet.vn/pub/media/wysiwyg/Phu-kien/HOCO/sac-Hoco-1-0-A/thiet-ke-Adapter-cu-sac-Hoco-1.0-A-didongviet.jpg (from dienthoai3.ninhbinhweb.info/product/adapter-cu-sac-hoco-1-0-a/)
+16:10:32	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://www.didongviet.vn/pub/media/wysiwyg/Phu-kien/HOCO/sac-Hoco-1-0-A/Adapter-cu-sac-Hoco-1.0-A-didongviet.jpg (from dienthoai3.ninhbinhweb.info/product/adapter-cu-sac-hoco-1-0-a/)
+16:10:33	Error: 	"Not Found" (404) at link dienthoai3.ninhbinhweb.info/wp-content/themes/fonts/fontawesome-webfont.woff2?v=4.4.0 (from dienthoai3.ninhbinhweb.info/wp-content/themes/o-du/style.css?ver=3.0)
+16:10:33	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://cdn4.tgdd.vn/Products/Images/55/69973/the-nho-microsd-16gb-class-10--6.jpg (from dienthoai3.ninhbinhweb.info/product/the-nho-micro-sd-16-gb-class-10/)
+16:10:33	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://cdn4.tgdd.vn/Products/Images/522/113278/Slider/vi-vn-samsung-galaxy-tab-a-8.0-(2017).jpg (from dienthoai3.ninhbinhweb.info/product/may-tinh-bang-samsung-galaxy-tab-a-8-0-2017/)
+16:10:33	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://cdn4.tgdd.vn/Products/Images/522/113278/samsung-galaxy-tab-a-80-2017-12-1.jpg (from dienthoai3.ninhbinhweb.info/product/may-tinh-bang-samsung-galaxy-tab-a-8-0-2017/)
+16:10:33	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://cdn4.tgdd.vn/Products/Images/42/114113/Slider/-1-thietke.jpg (from dienthoai3.ninhbinhweb.info/product/dien-thoai-iphone-8-64gb/)
+16:10:33	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://cdn4.tgdd.vn/Files/2017/09/13/1021096/p9122102_800x450.jpg (from dienthoai3.ninhbinhweb.info/product/dien-thoai-iphone-8-64gb/)
+16:10:33	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://cdn4.tgdd.vn/Products/Images/42/114112/iphone-8-256gb-h10-1.jpg (from dienthoai3.ninhbinhweb.info/product/dien-thoai-iphone-8-64gb/)
+16:10:33	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://cdn4.tgdd.vn/Products/Images/42/114115/Slider/vi-vn-1-thietke.jpg (from dienthoai3.ninhbinhweb.info/product/dien-thoai-iphone-x-64gb/)
+16:10:33	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://cdn4.tgdd.vn/Products/Images/42/114115/iphone-x-64gb7.jpg (from dienthoai3.ninhbinhweb.info/product/dien-thoai-iphone-x-64gb/)
+16:10:33	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://cdn4.tgdd.vn/Products/Images/42/114115/iphone-x-64gb8.jpg (from dienthoai3.ninhbinhweb.info/product/dien-thoai-iphone-x-64gb/)
+16:10:33	Error: 	"error:00000001:lib(0):func(0):reason(1)" (-5) after 2 retries at link https://www.didongviet.vn/pub/media/wysiwyg/Phu-kien/cap-sac/day-cap-sac-usb-type-c-lg-chinh-hang/thiet-ke-day-cap-sac-type-c-samsung-galaxy-note-7-chinh-hang-didongviet.jpg (from dienthoai3.ninhbinhweb.info/product/day-cap-sac-usb-type-c-lg-chinh-hang/)
+16:10:33	Error: 	"error:00000001:lib(0):func(0):reason(1)" (-5) after 2 retries at link https://www.didongviet.vn/pub/media/wysiwyg/Phu-kien/cap-sac/day-cap-sac-usb-type-c-lg-chinh-hang/day-cap-sac-type-c-samsung-galaxy-note-7-chinh-hang-didongviet.jpg (from dienthoai3.ninhbinhweb.info/product/day-cap-sac-usb-type-c-lg-chinh-hang/)
+16:10:33	Error: 	"error:00000001:lib(0):func(0):reason(1)" (-5) after 2 retries at link https://www.didongviet.vn/pub/media/wysiwyg/Phu-kien/cap-sac/day-cap-sac-usb-type-c-lg-chinh-hang/do-tuong-thich-day-cap-sac-type-c-samsung-galaxy-note-7-chinh-hang-didongviet.jpg (from dienthoai3.ninhbinhweb.info/product/day-cap-sac-usb-type-c-lg-chinh-hang/)
+16:10:33	Error: 	"error:00000001:lib(0):func(0):reason(1)" (-5) after 2 retries at link https://www.didongviet.vn/pub/media/wysiwyg/Phu-kien/HOCO/sac-Hoco-1-0-A/Adapter-cu-sac-Hoco-1.0-A-gia-re-didongviet.jpg (from dienthoai3.ninhbinhweb.info/product/adapter-cu-sac-hoco-1-0-a/)
+16:10:33	Error: 	"error:00000001:lib(0):func(0):reason(1)" (-5) after 2 retries at link https://www.didongviet.vn/pub/media/wysiwyg/Phu-kien/HOCO/sac-Hoco-1-0-A/thiet-ke-Adapter-cu-sac-Hoco-1.0-A-didongviet.jpg (from dienthoai3.ninhbinhweb.info/product/adapter-cu-sac-hoco-1-0-a/)
+16:10:33	Error: 	"error:00000001:lib(0):func(0):reason(1)" (-5) after 2 retries at link https://www.didongviet.vn/pub/media/wysiwyg/Phu-kien/HOCO/sac-Hoco-1-0-A/Adapter-cu-sac-Hoco-1.0-A-didongviet.jpg (from dienthoai3.ninhbinhweb.info/product/adapter-cu-sac-hoco-1-0-a/)
+16:10:33	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://cdn4.tgdd.vn/Products/Images/55/69973/the-nho-microsd-16gb-class-10--6.jpg (from dienthoai3.ninhbinhweb.info/product/the-nho-micro-sd-16-gb-class-10/)
+
+HTTrack Website Copier/3.48-21 mirror complete in 7 minutes 51 seconds : 550 links scanned, 445 files written (22762036 bytes overall) [10814182 bytes received at 22960 bytes/sec], 17044224 bytes transferred using HTTP compression in 353 files, ratio 23%, 5.6 requests per connection
+(25 errors, 113 warnings, 0 messages)
